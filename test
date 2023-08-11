@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html>
     <head>
         <meta charset="utf-8">
         <title>Test Page</title>
         <style>
-           #your-mom {
-text-color:blue;
-            }
+
         </style>
     </head>
     <body>
-<h1 id="your-mom">your mom</h1>
+<h1>There is no Internet connection</h1>
+<h2>There is something wrong with the proxy server, or the address is incorrect.<br><br></h2>
+<h2>Try:<br>-Contacting the system admin<br>-Checking the proxy address<br>Reconnecting to the Internet</h2>
+<h2>ERR_PROXY_CONNECTION_FAILED<br><br><br><br>DETAILS</h2>
 
     </body>
 </html>
