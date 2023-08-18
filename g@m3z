@@ -3,15 +3,26 @@
     <head>
         <meta charset="utf-8">
         <title>Classroom</title>
+<style>
+
+h1 {
+text-size=30px
+}
+
+</style>
     </head>
     <body>
 <h1>This is a bookmark that contains a ton of games all in one place.</h1>
 <h2>Games</h2>
 <h3>Cookie Clicker</h3>
-<a href="https://orteil.dashnet.org/cookieclicker/">-Official<a>
+<a href="https://orteil.dashnet.org/cookieclicker/" target="_blank">-Official<a>
 <h3>Wordle</h3>
-<a href="https://www.nytimes.com/games/wordle/index.html">NY Times</a>
+<a href="https://www.nytimes.com/games/wordle/index.html" target="_blank">-NY Times</a>
 <h3>Chrome Dino<h3>
-<a href="https://chromedino.com">Improved</a>
+<a href="https://chromedino.com" target="_blank">-Improved</a>
+<h3>Paper.io</h3>
+<a href="https://paper-io.com">-Official</a>
+
+<h3>
     </body>
 </html>
